@@ -774,13 +774,13 @@
       "uri": "textures/material_baseColor.jpeg"
     },
     {
-      "uri": "textures/.001_baseColor.jpeg"
+      "uri": "textures/001_baseColor.jpeg"
     },
     {
-      "uri": "textures/.002_baseColor.jpeg"
+      "uri": "textures/002_baseColor.jpeg"
     },
     {
-      "uri": "textures/.003_baseColor.jpeg"
+      "uri": "textures/003_baseColor.jpeg"
     }
   ],
   "materials": [
